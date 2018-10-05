@@ -1,0 +1,3 @@
+# Ignore the .exe files generated to test algorithms
+
+*.exe
