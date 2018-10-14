@@ -34,5 +34,8 @@
 *.out
 *.app
 
+# Visual Studio Code files
+/.vscode
+
 
 # End of https://www.gitignore.io/api/c++
