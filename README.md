@@ -1,6 +1,6 @@
 # Competitive-Programming
 
-This repository contains implementation of various algorithms and Data Structures.
+This repository contains implementation of various Algorithms and Data Structures.
 
 Links to my profile on various programming sites.
 
